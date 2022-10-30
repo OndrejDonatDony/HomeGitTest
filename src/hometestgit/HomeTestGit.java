@@ -15,6 +15,7 @@ public class HomeTestGit {
      */
     public static void main(String[] args) {
         System.out.println("HomeTestGit");
+        System.out.println("pulltest");
         // TODO code application logic here
     }
     
